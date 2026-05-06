@@ -15,7 +15,7 @@
 
 ### <img src="https://media.giphy.com/media/W6YOVfw8I0s4Yffyu9/giphy.gif" width="45" /> About Me:
 - 💻 Backend Engineer specializing in designing, deploying, and optimizing robust, scalable systems with proven leadership.
-- 🏆 Proven ability to lead development teams and deliver high-impact solutions across core backend functions.
+- 🏆 Experience working with teams to deliver backend solutions across core functions.
 - 🎙️ Real-time communication specialist: Integrating **LiveKit** for voice agents, real-time communication, and interactive AI experiences.
 - 📚 RAG (Retrieval-Augmented Generation): Building intelligent document-driven systems with semantic search and context-aware AI responses.
 - 🛠️ Expertise in: API architecture, database optimization, payment gateway integration, CI/CD, AWS cloud management, and AI/ML pipelines.
