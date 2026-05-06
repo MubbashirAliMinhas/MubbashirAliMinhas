@@ -13,11 +13,12 @@
 <a href="https://github.com/MubbashirAliMinhas" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 </p>
 
-### <img src="https://media.giphy.com/media/W6YOVfw8I0s4Yffyu9/giphy.gif" width="45" /> About Me:
+### <img src="https://raw.githubusercontent.com/microsoft/fluentui-system-icons/main/assets/Filled/rocket_28_filled.svg" width="45" /> About Me:
 - 💻 Backend Engineer specializing in designing, deploying, and optimizing robust, scalable systems with proven leadership.
 - 🏆 Experience working with teams to deliver backend solutions across core functions.
 - 🎙️ Real-time communication specialist: Integrating **LiveKit** for voice agents, real-time communication, and interactive AI experiences.
 - 📚 RAG (Retrieval-Augmented Generation): Building intelligent document-driven systems with semantic search and context-aware AI responses.
+- 🤖 Agentic AI experience: building autonomous agent workflows, multi-agent orchestration, and AI-driven backend automation.
 - 🛠️ Expertise in: API architecture, database optimization, payment gateway integration, CI/CD, AWS cloud management, and AI/ML pipelines.
 - ⚙️ I build with: **NestJS**, **FastAPI**, **Express.js**, **Docker**, **AWS**, **PostgreSQL**, **MongoDB**, **Prisma**, **TypeORM**, **MikroORM**.
 - 💬 Talk to me about backend development, system design, AI agents, real-time communication, agentic workflows, or cloud infrastructure!
@@ -61,6 +62,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🔄_Pull_Requests-191-238636?style=for-the-badge&labelColor=151515&color=151515" alt="PRs" width="240" />
   <img src="https://img.shields.io/badge/✅_Merged-170_(89.0%25)-238636?style=for-the-badge&labelColor=151515&color=151515" alt="Merged" width="240" />
+  <img src="https://img.shields.io/badge/🟢_Open-0-238636?style=for-the-badge&labelColor=151515&color=238636" alt="Open PRs" width="240" />
+  <img src="https://img.shields.io/badge/⭐_Stars-0-238636?style=for-the-badge&labelColor=151515&color=238636" alt="Stars" width="240" />
 </p>
 <!-- END_GITHUB_STATS -->
 
