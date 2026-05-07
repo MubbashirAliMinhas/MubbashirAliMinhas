@@ -269,8 +269,6 @@ def update_readme(stats):
 <p align="center">
   <img src="https://img.shields.io/badge/🔄_Pull_Requests-{stats['total_prs']:,}-238636?style=for-the-badge&labelColor=151515&color=151515" alt="PRs" width="240" />
   <img src="https://img.shields.io/badge/✅_Merged-{stats['merged_prs']:,}_({stats['merge_rate']}%25)-238636?style=for-the-badge&labelColor=151515&color=151515" alt="Merged" width="240" />
-  <img src="https://img.shields.io/badge/🟢_Open_{stats['open_prs']:,}-238636?style=for-the-badge&labelColor=151515&color=238636" alt="Open PRs" width="240" />
-  <img src="https://img.shields.io/badge/⭐_Stars_{stats['total_stars']:,}-238636?style=for-the-badge&labelColor=151515&color=238636" alt="Stars" width="240" />
 </p>
 <!-- END_GITHUB_STATS -->'''
 

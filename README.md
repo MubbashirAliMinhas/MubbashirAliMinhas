@@ -60,8 +60,8 @@
 
 <!-- START_GITHUB_STATS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🔄_Pull_Requests-191-238636?style=for-the-badge&labelColor=151515&color=151515" alt="PRs" width="240" />
-  <img src="https://img.shields.io/badge/✅_Merged-170_(89.0%25)-238636?style=for-the-badge&labelColor=151515&color=151515" alt="Merged" width="240" />
+  <img src="https://img.shields.io/badge/🔄_Pull_Requests-394-238636?style=for-the-badge&labelColor=151515&color=151515" alt="PRs" width="240" />
+  <img src="https://img.shields.io/badge/✅_Merged-393_(99.7%25)-238636?style=for-the-badge&labelColor=151515&color=151515" alt="Merged" width="240" />
 </p>
 <!-- END_GITHUB_STATS -->
 
@@ -96,7 +96,7 @@
 ### 📌 A Quote I Like:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Pride is not the opposite of shame, but its source. True humility is the only antidote to shame.” — Uncle Iroh</i>
+• <i>"Do not go where the path may lead, go instead where there is no path and leave a trail." — Ralph Waldo Emerson</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
